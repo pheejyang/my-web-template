@@ -1,0 +1,17 @@
+
+*{
+  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-size{
+  padding: 0 15px;
+  width: 430px;
+  height: 932px;
+  top: -466px;
+  left: -1155px;
+  background-color: #FFFFFF;
+  
+
+}
